@@ -26,3 +26,8 @@
 ### References 
 
 - [Introduction to Data Analysis using Microsoft Excel](https://www.coursera.org/projects/introduction-data-analysis-microsoft-excel)
+
+&nbsp;
+
+*1st Completion Date: Nov 15, 2024*&emsp;
+
