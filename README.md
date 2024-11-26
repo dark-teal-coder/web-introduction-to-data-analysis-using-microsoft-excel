@@ -1,4 +1,4 @@
-# Introduction to Data Analysis using Microsoft Excel
+# Introduction to Data Analysis Using Microsoft Excel
 
 ## Metadata
 
@@ -7,7 +7,7 @@
 
 ## Project
 
-- **Title**: *Introduction to Data Analysis using Microsoft Excel*
+- **Title**: *Introduction to Data Analysis Using Microsoft Excel*
 - **Difficulty**:
   - [x] Beginner
   - [ ] Intermediate
