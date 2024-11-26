@@ -16,3 +16,13 @@
   - [x] Small
   - [ ] Medium
   - [ ] Big
+
+## Credits 
+
+### Contributors 
+
+- [@dark-teal-coder](github.com/dark-teal-coder)
+
+### References 
+
+- [Introduction to Data Analysis using Microsoft Excel](https://www.coursera.org/projects/introduction-data-analysis-microsoft-excel)
