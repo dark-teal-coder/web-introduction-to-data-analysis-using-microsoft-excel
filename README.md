@@ -20,7 +20,7 @@
 
 ## Repository Description
 
-In this project, you will learn the foundation of data analysis with Microsoft Excel using sales data from a sample company. You will learn how to use sorting and filtering tools to reorganize your data and access specific information about your data. You will also learn about the use of functions like `IF` and `VLOOKUP` functions to create new data and relate data from different tables. Finally, you will learn how to create pivot tables to summarize and look at comparisons within your data. These skills will help you efficiently perform data analysis on many different types of data and give you the foundation to expand your toolbox as you explore other strategies for data analysis.
+In this project, we will follow the guided project [Introduction to Data Analysis using Microsoft Excel](https://www.coursera.org/projects/introduction-data-analysis-microsoft-excel) on Coursera to do data analysis with Microsoft Excel using sales data from a sample company. We will use sorting and filtering tools to reorganize our data and access specific information about our data. We will also use functions like `IF` and `VLOOKUP` to create new data and relate data from different tables. Finally, we will create pivot tables to summarize and look at comparisons within our data. This website, created from GitHub Pages, will show you a walk-through of this Excel data analysis project.  
 
 ## Credits 
 
