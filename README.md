@@ -36,5 +36,6 @@ In this project, we will follow the guided project [Introduction to Data Analysi
 &nbsp;
 
 *1st Completion Date: Nov 15, 2024*&emsp;
+&nbsp;
 *2nd Completion Date: Dec 20, 2024*&emsp;
 
