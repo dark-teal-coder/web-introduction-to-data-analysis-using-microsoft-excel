@@ -105,7 +105,16 @@
     <p>
         <u>Steps</u>:
         <ol>
-            <li></li>
+            <li>Create a new column with the header "Discount" to the right of the existing table.</li>
+            <li>In the first cell in the new column (i.e. M5), type "<span class="code">=IF(J5>20, "Y", "N")</span>" and press [ENTER].</li>
+                <ul>
+                    <li>The remaining cells of the table will be auto-filled.</li>
+                </ul>
+            <li>To make it easier to see, highlight the M column and click [Align] and [Center].</li>
+            <li>Create a new column with the header "Final Price" to the right of the existing table.</li>
+            <li>In the first cell in the new column (i.e. N5), type "<span class="code">=IF(J5>20, 0.95*L5, L5)</span>" and press [ENTER].</li>
+            <li>To format column N, click [Home], click the drop-down arrow to the right of [Number Format] and choose [Currency].</li>
+            <li>Click [Decrease Decimal] twice.</li>
         </ol>
     </p>
     <h4>4. Create references between tables and search for information with VLOOKUP</h4> 
