@@ -119,8 +119,46 @@
     </p>
     <h4>4. Create references between tables and search for information with VLOOKUP</h4> 
     In this task, we will learn how to relate tables located 
+    <h5>Looking Up the Company Name from Customer ID</h5>
+    <p>
+        <u>Steps</u>:
+        <ol>
+            <li>To the right of the "Customer ID" column, highlight column G and right-click.</li>
+            <li>Choose [Insert Columns] or [Insert 1 Column Left].</li>
+            <li>Rename the new column "Company Name".</li>
+            <li>In the first cell in the new column (i.e. G5), type "<span class="code">=VLOOKUP(F5, 'Customer Info'!$A$4:$C$12, 2, FALSE)</span>" and press [ENTER].</li>
+                <ol>
+                    <li>For the first value in the VLOOKUP formula, select cell F5.</li>
+                    <li>For the second value in the VLOOKUP formula, click on the "Customer Info" worksheet.</li>
+                    <li>For the second value in the VLOOKUP formula, highlight cells A4 to C12.</li>
+                    <li>For the second value in the VLOOKUP formula, press [F4] to add "<span class="code">$</span>" in front of the letters and the numbers for our reference cells to anchor these cells so that the range does not change when we apply this formula to the other cells for the other column.</li>
+                    <li>For the third value in the VLOOKUP formula, specify the column index number 2 from the reference table for the value we want to return (i.e. "Company Name").</li>
+                    <li>For the fourth value in the VLOOKUP formula, type "FALSE" for an exact match.</li>
+                </ol>
+            <li>Press [ENTER].</li>        
+        </ol>
+    </p>
+    <h5>Looking Up the Representative from Customer ID</h5>
+    <p>
+        <u>Steps</u>:
+        <ol>
+            <li>To the right of the "Company Name" column, highlight column H and right-click.</li>
+            <li>Choose [Insert Columns] or [Insert 1 Column Left].</li>
+            <li>Rename the new column "Representative".</li>
+            <li>In the first cell in the new column (i.e. H5), type "<span class="code">=VLOOKUP(F5, 'Customer Info'!$A$4:$C$12, 3, FALSE)</span>" and press [ENTER].</li>
+            <li>Press [ENTER].</li>
+        </ol>
+    </p>
     <h4>5. Perform data analysis using PivotTables</h4>
     In this task, we will learn about another strategy for data analysis which is using Pivot Tables. PivotTables allow us to summarize and analyze the data by seeing comparisons in our data.
+    <h5></h5>
+    <p>
+        <u>Steps</u>:
+        <ol>
+            <li></li>
+            <li></li>
+        </ol>
+    </p>
     <br>
     <h2>Graded Assignment</h2>
     <h3>Question 1</h3> 
